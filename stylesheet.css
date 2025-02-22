@@ -107,3 +107,52 @@ body {
 .member{
   line-height: 40px;
 }
+
+@media screen and (max-width: 768px) {
+  header {
+    position: fixed;
+    background-color: antiquewhite;
+    width: 100%;
+    top: 0;
+    left: 0;
+    right: 0;
+    opacity: 0.9;
+    z-index: 1000; 
+    opacity: 0.8;
+  }
+
+  body {
+    background-color: white;
+    margin: 0;
+    height: auto;
+  }
+
+  .link {
+    padding-top: 20px;
+    padding-left: 10px;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .introduction {
+    padding-top: 120px;
+    padding-left: 10px;
+  }
+
+  .introduction h2 {
+    font-size: 18px;
+    padding-top: 25px;
+    letter-spacing: 2px;
+  }
+
+  .text {
+    line-height: 30px;
+    padding-right: 10px;
+  }
+
+  .name {
+    font-size: 20px;
+    padding-left: 10px;
+  }
+}
+
