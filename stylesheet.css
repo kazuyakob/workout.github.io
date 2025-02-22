@@ -133,12 +133,12 @@ body {
    float: left;
   }
 
-  .link{
+  .link a{
     font-size:5px;
     float: left;
    }
 
-   .name{
+   .name h1{
     font-size:small;
 
    }
