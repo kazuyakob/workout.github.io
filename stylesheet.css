@@ -18,9 +18,9 @@ body {
 
 .link a{
  text-decoration: none;
- padding-left:15px;
+ padding-left:10px;
  color:inherit;
- font-size: 15px;
+ font-size: 10px;
 }
 
 .link i{
@@ -58,7 +58,7 @@ body {
 }
 
 .header{
- display: flex;
+ 
  cursor: default;
 }
 
