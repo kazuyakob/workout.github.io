@@ -129,16 +129,17 @@ body {
   }
 
   .header{
-    flex-direction: column;
-   float: left;
+   flex-wrap: wrap;
+   
+   
   }
 
-  .link a{
+  .link{
     font-size:5px;
-    float: left;
+    padding-left: 200px;
    }
 
-   .name h1{
+   .name{
     font-size:small;
 
    }
