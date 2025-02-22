@@ -130,7 +130,7 @@ body {
   .link {
     padding-top: 20px;
     padding-left: 10px;
-    display: flex;
+    float:left;
     flex-direction: column;
   }
 
@@ -146,13 +146,13 @@ body {
   }
 
   .text {
-    line-height: 20px;
+    line-height: 25px;
     padding-right: 5px;
-    padding-right:10px;
+    padding-right:15px;
   }
 
   .name h1{
-    font-size: 50px;
+    font-size: 300px;
     padding-left: 10px;
   }
 }
