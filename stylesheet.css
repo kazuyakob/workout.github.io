@@ -148,12 +148,12 @@ body {
     font-size: 18px;
     padding-top: 25px;
     letter-spacing: 2px;
-    padding-lrft:5px;
+    padding-left:5px;
   }
 
   .text {
     line-height: 25px;
-    padding-right: 5px;
+    padding-left: 5px;
     padding-right:15px;
   }
 
