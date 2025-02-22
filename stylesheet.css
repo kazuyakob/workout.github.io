@@ -108,6 +108,7 @@ body {
   line-height: 40px;
 }
 
+
 @media screen and (max-width: 768px) {
   header {
     position: fixed;
@@ -131,15 +132,11 @@ body {
   .link {
     padding-top: 20px;
     padding-left: 10px;
-    float:left;
+    display: flex;
     
   }
 
-  .link a{
-   float:left;
-    
-  }
-
+  
   .introduction {
     padding-top: 120px;
     padding-left: 10px;
@@ -148,8 +145,9 @@ body {
   .introduction h2 {
     font-size: 18px;
     padding-top: 25px;
+    padding-bottom: 5px;
     letter-spacing: 2px;
-    padding-left:15px;
+    padding-left: 20px;
   }
 
   .text {
@@ -159,8 +157,9 @@ body {
   }
 
   .name h1{
-    font-size: 25px;
+    font-size: 10px;
     padding-left: 5px;
   }
 }
+
 
