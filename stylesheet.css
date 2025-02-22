@@ -13,14 +13,14 @@ header {
 body {
   background-color:white;
   margin: 0;
-  height:1500px;
+  height:1500px
 }
 
 .link a{
  text-decoration: none;
- padding-left:10px;
+ padding-left:15px;
  color:inherit;
- font-size: 10px;
+ font-size: 15px;
 }
 
 .link i{
@@ -58,13 +58,13 @@ body {
 }
 
 .header{
- 
+ display: flex;
  cursor: default;
 }
 
 .link{
  padding-top: 85px;
- float:legft;
+ padding-left:450px;
 }
 
 .introduction{
