@@ -148,10 +148,11 @@ body {
   .text {
     line-height: 15px;
     padding-right: 5px;
+    padding-right:5px
   }
 
   .name h1{
-    font-size: 5px;
+    font-size: 50px;
     padding-left: 10px;
   }
 }
